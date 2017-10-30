@@ -42,7 +42,6 @@ If you want to add anything new, just fork this repo and send me a pull request.
 >
 [![star this repo](https://img.shields.io/github/stars/stevenwanderski/bxslider-4.svg)](https://github.com/stevenwanderski/bxslider-4/stargazers)
 [![fork this repo](https://img.shields.io/github/forks/stevenwanderski/bxslider-4.svg)](https://github.com/stevenwanderski/bxslider-4/network)
-[![downloads](https://img.shields.io/github/forks/stevenwanderski/bxslider-4.svg)](https://github.com/stevenwanderski/bxslider-4)
 
 ## Layout
 
