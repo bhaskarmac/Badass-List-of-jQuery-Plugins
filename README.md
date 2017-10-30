@@ -37,6 +37,13 @@ If you want to add anything new, just fork this repo and send me a pull request.
 [![fork this repo](http://githubbadges.com/fork.svg?user=kenwheeler&repo=slick&style=flat)](https://github.com/kenwheeler/slick/fork)
 [![downloads](https://img.shields.io/npm/dm/slick.svg)](https://npmjs.org/package/slick)
 
+* [bxSlider](https://github.com/stevenwanderski/bxslider-4): Add a slider to any webpage.
+
+>
+[![star this repo](http://githubbadges.com/star.svg?user=kenwheeler&repo=slick&style=flat)](https://github.com/stevenwanderski/bxslider-4)
+[![fork this repo](http://githubbadges.com/fork.svg?user=kenwheeler&repo=slick&style=flat)](https://github.com/stevenwanderski/bxslider-4/fork)
+[![downloads](https://img.shields.io/npm/dm/slick.svg)](https://github.com/stevenwanderski/bxslider-4)
+
 ## Layout
 
 ## Form Elements
