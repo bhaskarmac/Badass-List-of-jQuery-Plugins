@@ -40,9 +40,9 @@ If you want to add anything new, just fork this repo and send me a pull request.
 * [bxSlider](https://github.com/stevenwanderski/bxslider-4): Add a slider to any webpage.
 
 >
-[![star this repo](http://githubbadges.com/star.svg?user=kenwheeler&repo=slick&style=flat)](https://github.com/stevenwanderski/bxslider-4)
-[![fork this repo](http://githubbadges.com/fork.svg?user=kenwheeler&repo=slick&style=flat)](https://github.com/stevenwanderski/bxslider-4/fork)
-[![downloads](https://img.shields.io/npm/dm/slick.svg)](https://github.com/stevenwanderski/bxslider-4)
+[![star this repo](https://img.shields.io/github/stars/stevenwanderski/bxslider-4.svg)](https://github.com/stevenwanderski/bxslider-4/stargazers)
+[![fork this repo](https://img.shields.io/github/forks/stevenwanderski/bxslider-4.svg)](https://github.com/stevenwanderski/bxslider-4/network)
+[![downloads](https://img.shields.io/github/forks/stevenwanderski/bxslider-4.svg)](https://github.com/stevenwanderski/bxslider-4)
 
 ## Layout
 
