@@ -45,6 +45,12 @@ If you want to add anything new, just fork this repo and send me a pull request.
 
 ## Layout
 
+* [fullPage.js](https://github.com/alvarotrigo/fullPage.js): fullPage plugin by [Alvaro Trigo](https://github.com/alvarotrigo)
+
+>
+[![GitHub stars](https://img.shields.io/github/stars/alvarotrigo/fullPage.js.svg)](https://github.com/alvarotrigo/fullPage.js/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/alvarotrigo/fullPage.js.svg)](https://github.com/alvarotrigo/fullPage.js/network)
+
 ## Form Elements
 
 * [International Telephone Input](https://github.com/jackocnr/intl-tel-input): A jQuery plugin for entering and validating international telephone numbers (https://intl-tel-input.com/)
